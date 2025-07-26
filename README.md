@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsh Narayan Nishad</h1>
-<h3 align="center">Everything System Design — LLD & HLD Concepts and Patterns.
+<h3 align="center">From ideas to scalable software — solving real business problems.
 
  </h3>
 <p align="center">
@@ -29,11 +29,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-narayan-nishad&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="harsh-narayan-nishad"> </p>
 <img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
-<p>✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em>😉 <br>
-✔ I’m currently Developing <strong>Medconnect</strong> Witty <strong>Sankirtan AI </strong><br>
-✔ I’m currently learning <strong>System Design</strong> &amp; <strong>Redis, Rate Limiter, Kafka
-</strong><br>
-✔ I’m looking to collaborate with any <strong>Open - Source contribution</strong><br>
+<p>
+  ✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em><br>
+  ✔ Currently leading the <strong>ASH Tech Account Ledger Software</strong> team<br>
+  ✔ Building software from scratch using <strong>Microservices architecture</strong> to solve real business problems<br>
+  ✔ Previously developed: <strong>MedConnect</strong>, <strong>Witty</strong>, <strong>Sankirtan AI</strong><br>
+  ✔ Currently learning: <strong>System Design</strong>, <strong>Redis</strong>, <strong>Rate Limiting</strong>, <strong>Kafka</strong><br>
+  ✔ Open to collaborate on impactful <strong>Open Source projects</strong><br>
+</p>
 
 
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Languages &amp; Tools I Know…</strong></em></p>
