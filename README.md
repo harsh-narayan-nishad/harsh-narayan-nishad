@@ -18,7 +18,7 @@
 <p align="center">
   <em>
     I'm a <b>Software Engineer</b> graduated from <a href="https://www.glbitm.org/"> <b>GL Bajaj Insitute of Technology, Greater Noida</b>, UP</a> in 2025.<br>
-    Achieved <b>97% in projects</b> with <b>92% in 8th semester.</b> <b>FullStack-Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>who is <b>obsessed</b>
+    Achieved <b>92% in 8th semester.</b> <b>FullStack-Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp;.
