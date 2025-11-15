@@ -27,7 +27,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <b><i>Learning while HOPING &amp; HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-narayan-nishad&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="harsh-narayan-nishad"> </p>
-<img align="right" width="300px" alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+
 <p><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<em><strong>Talking about Personal Stuffs…</strong></em></p>
 <p>
   ✔ Pronouns: <em><strong>He/His</strong></em> or <em><strong>TeamMaker</strong></em><br>
